@@ -10,7 +10,8 @@ KPI to get the Insights into the Sales of Adventure Industries.
 7.	The top salesperson generates the most revenue.
 8.	Production time of the Products.
 9.	Products with the most Profitable margins.
-Process:
+
+# Process:
 1.	Extract the data from the database by running the numerous SQL queries (you can take reference from the attached SQL queries).
 2.	Copy the data into Excel.
 3.	Make the required Pivot charts and tables.
