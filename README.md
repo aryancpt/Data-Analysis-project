@@ -12,8 +12,13 @@ KPI to get the Insights into the Sales of Adventure Industries.
 9.	Products with the most Profitable margins.
 
 # Process:
-1.	Extract the data from the database by running the numerous SQL queries (you can take reference from the attached SQL queries).
-2.	Copy the data into Excel.
+1.	Extract the data from the database by running the numerous SQL queries (you can take reference from the attached SQL
+ queries). 
+2.	Copy the data into Excel.[Retail store data.xlsx](https://github.com/user-attachments/files/20885170/Retail.store.data.xlsx)
 3.	Make the required Pivot charts and tables.
 4.	Prepare a dashboard and merge the created charts.
+
+# Dashboard
+![Screenshot 2025-06-24 163755](https://github.com/user-attachments/assets/e0d8ac3e-818e-450b-844a-2f3ea1a673fb)
+
 
