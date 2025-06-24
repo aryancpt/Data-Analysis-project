@@ -1,1 +1,1 @@
-# Data-Analysis-project
+Adventures Work is a global company engaged in the manufacturing and sale of a diverse range of products. With a presence across multiple markets worldwide, the company aims to gain valuable sales insights by developing a dashboard that provides a comprehensive view of its performance. This will help identify areas for improvement and support data-driven decision-making for future growth.
